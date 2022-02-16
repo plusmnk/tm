@@ -1,0 +1,22 @@
+.toyxonalar .title,
+.zargarlik .title,
+.kartej .title,
+.kelin-liboslari .title,
+.fotosessiya .title {
+  text-align: left;
+}
+.toyxonalar .title h2,
+.zargarlik .title h2,
+.kartej .title h2,
+.kelin-liboslari .title h2,
+.fotosessiya .title h2 {
+  margin-bottom: 15px;
+}
+.toyxonalar .title p,
+.zargarlik .title p,
+.kartej .title p,
+.kelin-liboslari .title p,
+.fotosessiya .title p {
+  text-align: left;
+  margin: 0;
+}
